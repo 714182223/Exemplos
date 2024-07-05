@@ -1,0 +1,1 @@
+print("af, to com preguiça")
