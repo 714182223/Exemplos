@@ -1,1 +1,1 @@
-print("af, to com preguiça")
+print("af, to com preguiça de novo")
